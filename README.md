@@ -39,6 +39,7 @@ This is an assembler and emulator that is designed to run a vc3600 computer. Thi
  - SymTab.h - the definition of the class the manage the symbol table. 
  - SymTab.cpp - implementation of the class to manage the symbol table.
 
- - Errors.h - the definition of the class to perform error reporting. In windows, errors will be printed in red text color.
+ - Errors.h - the definition of the class to perform error reporting.
+ - Errors.cpp - the implementation of the class to perform error reporting.
 
  - Emulator.h - the definition for the emulator class.
